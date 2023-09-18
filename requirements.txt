@@ -5,4 +5,10 @@ torch >= 1.4.0
 ray >= 1.10.0
 pytorch-lightning >= 1.5.10, <=1.6.0
 transformers == 3.3.0
-GitPython
+
+# langchain
+pydantic == 1.10.9
+langchain
+openai
+
+
