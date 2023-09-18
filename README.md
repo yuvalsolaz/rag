@@ -124,7 +124,7 @@ We demonstrate how to evaluate retrieval against DPR evaluation data. You can do
     ```
 3. Run evaluation:
     ```bash
-    python examples/research_projects/rag/eval_rag.py \
+    python eval_rag.py \
         --model_name_or_path facebook/rag-sequence-nq \
         --model_type rag_sequence \
         --evaluation_set output/biencoder-nq-dev.questions \

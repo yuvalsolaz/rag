@@ -4,5 +4,5 @@ psutil >= 5.7.0
 torch >= 1.4.0
 ray >= 1.10.0
 pytorch-lightning >= 1.5.10, <=1.6.0
-transformers
+transformers == 3.3.0
 GitPython
